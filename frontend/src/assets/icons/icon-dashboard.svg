@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<g id="surface1">
+<path style="fill-rule:nonzero;fill:white;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 2.000001 2.000001 L 22.000009 2.000001 L 22.000009 22.000009 L 2.000001 22.000009 Z M 2.000001 2.000001 " transform="matrix(1,0,0,1,0,0)"/>
+<path style="fill-rule:nonzero;fill:white;fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 11.000004 7.000003 L 17.000007 7.000003 M 11.000004 12.000005 L 17.000007 12.000005 M 11.000004 17.000007 L 17.000007 17.000007 " transform="matrix(1,0,0,1,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 7.000003 7.000003 L 7.000003 7.000003 " transform="matrix(1,0,0,1,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 7.000003 12.000005 L 7.000003 12.000005 " transform="matrix(1,0,0,1,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 7.000003 17.000007 L 7.000003 17.000007 " transform="matrix(1,0,0,1,0,0)"/>
+</g>
+</svg>
